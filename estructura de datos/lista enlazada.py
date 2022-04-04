@@ -123,3 +123,6 @@ if __name__ == '__main__':
     print(lista)
     lista.eliminar_inicio()
     print(lista)
+    lista.insertar_final(5)
+    print(lista)
+    
